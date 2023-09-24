@@ -1,0 +1,2202 @@
+<svg viewBox="0 0 400 225" style="background-color:#000000" xmlns="http://www.w3.org/2000/svg">
+
+  <circle cx="186" cy="116" r="1.30" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-186 50"
+      dur="8.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="112" r="0.70" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="195 -17"
+      dur="5.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="127" r="1.80" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-24 98"
+      dur="1.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="190" cy="111" r="1.90" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-190 -23"
+      dur="5.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="212" cy="125" r="0.90" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="97 100"
+      dur="2.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="113" r="0.80" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="45 112"
+      dur="8.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="183" cy="118" r="1.00" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-183 59"
+      dur="1.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="111" r="1.00" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="195 -63"
+      dur="7.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="214" cy="118" r="1.70" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="186 75"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="109" r="1.40" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="37 -109"
+      dur="1.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="208" cy="118" r="1.00" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="152 107"
+      dur="6.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="208" cy="115" r="1.30" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="192 52"
+      dur="7.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="210" cy="104" r="0.60" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="124 -104"
+      dur="9.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="106" r="1.10" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="57 -106"
+      dur="8.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="121" r="1.80" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="22 104"
+      dur="6.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="112" r="0.70" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-198 -88"
+      dur="3.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="96" r="1.40" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="2 -96"
+      dur="2.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="210" cy="106" r="1.00" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="163 -106"
+      dur="6.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="217" cy="112" r="0.60" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="183 -6"
+      dur="7.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="113" r="1.50" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-179 112"
+      dur="6.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.50" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-20 -112"
+      dur="2.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="106" r="1.90" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="59 -106"
+      dur="8.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="113" r="1.70" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="199 110"
+      dur="2.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="207" cy="118" r="1.70" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="159 107"
+      dur="4.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="109" r="0.90" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="11 -109"
+      dur="1.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="192" cy="115" r="1.90" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-192 66"
+      dur="7.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="207" cy="102" r="1.30" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="66 -102"
+      dur="4.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="193" cy="111" r="0.50" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-193 -31"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="107" r="1.30" style="fill:#fdfdfd">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="50 -107"
+      dur="6.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="97" r="1.90" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="22 -97"
+      dur="5.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="121" r="1.90" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-9 104"
+      dur="5.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="209" cy="128" r="1.40" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="54 97"
+      dur="3.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="189" cy="101" r="1.70" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-98 -101"
+      dur="9.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="210" cy="116" r="1.90" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="190 69"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="190" cy="101" r="0.50" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-85 -101"
+      dur="3.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="113" r="1.30" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-70 112"
+      dur="7.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.00" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-0 -112"
+      dur="6.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="113" r="0.90" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="196 24"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="112" r="0.60" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-67 -112"
+      dur="3.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="101" r="1.40" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-11 -101"
+      dur="1.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="112" r="1.50" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="198 -28"
+      dur="9.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="110" r="0.80" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-195 -87"
+      dur="6.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="115" r="1.80" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="191 110"
+      dur="5.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="107" r="1.40" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-69 -107"
+      dur="9.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="182" cy="110" r="0.90" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-182 -22"
+      dur="7.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="206" cy="109" r="0.60" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="194 -99"
+      dur="8.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="112" r="1.10" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-198 -72"
+      dur="6.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="105" r="1.70" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="9 -105"
+      dur="9.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="106" r="1.80" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="41 -106"
+      dur="8.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="130" r="1.80" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-29 95"
+      dur="6.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="118" r="1.80" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-84 107"
+      dur="3.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="112" r="0.60" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-199 -32"
+      dur="6.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="209" cy="125" r="1.80" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="73 100"
+      dur="9.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="186" cy="119" r="1.50" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-186 87"
+      dur="6.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="211" cy="113" r="1.80" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="189 13"
+      dur="6.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="125" r="1.00" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="29 100"
+      dur="4.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="106" r="1.60" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-85 -106"
+      dur="8.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="214" cy="107" r="1.10" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="186 -68"
+      dur="6.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="193" cy="121" r="1.70" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-94 104"
+      dur="6.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="108" r="1.60" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="116 -108"
+      dur="1.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="117" r="1.50" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="133 108"
+      dur="7.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="111" r="1.90" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-52 -111"
+      dur="4.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="209" cy="100" r="0.60" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="70 -100"
+      dur="2.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="127" r="1.90" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-30 98"
+      dur="7.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="192" cy="119" r="0.60" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-136 106"
+      dur="5.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="113" r="0.60" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-57 112"
+      dur="7.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.50" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="73 112"
+      dur="8.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="192" cy="112" r="1.60" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-192 0"
+      dur="6.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="96" r="0.90" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-31 -96"
+      dur="2.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="215" cy="106" r="1.90" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="185 -86"
+      dur="1.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="210" cy="102" r="1.80" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="95 -102"
+      dur="8.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="190" cy="104" r="1.00" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-129 -104"
+      dur="3.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="110" r="1.50" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="141 -110"
+      dur="5.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.60" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-45 -112"
+      dur="2.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="191" cy="96" r="0.80" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-51 -96"
+      dur="3.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="121" r="1.50" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-36 104"
+      dur="9.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="123" r="0.50" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-45 102"
+      dur="3.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="215" cy="105" r="1.40" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="185 -90"
+      dur="6.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="114" r="1.80" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-30 111"
+      dur="3.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="0.60" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-32 -112"
+      dur="7.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="110" r="1.20" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="21 -110"
+      dur="9.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="115" r="1.80" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="80 110"
+      dur="3.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="95" r="1.20" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="20 -95"
+      dur="2.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="116" r="1.70" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="27 109"
+      dur="9.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="98" r="1.70" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-39 -98"
+      dur="2.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="108" r="0.50" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-108 -108"
+      dur="4.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="102" r="1.50" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="12 -102"
+      dur="9.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="103" r="0.50" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="55 -103"
+      dur="6.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="113" r="1.00" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="198 38"
+      dur="5.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="100" r="1.20" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="40 -100"
+      dur="7.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="109" r="1.80" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-117 -109"
+      dur="2.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="108" r="1.20" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-60 -108"
+      dur="6.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="113" r="1.40" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-160 112"
+      dur="2.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="0.90" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-200 -102"
+      dur="6.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="98" r="1.90" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="3 -98"
+      dur="2.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="101" r="1.80" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-58 -101"
+      dur="4.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="191" cy="105" r="1.00" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-125 -105"
+      dur="3.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="102" r="0.60" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-22 -102"
+      dur="4.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="212" cy="112" r="1.40" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="188 0"
+      dur="2.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="111" r="1.90" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-196 -56"
+      dur="6.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="186" cy="112" r="1.60" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-186 0"
+      dur="7.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="94" r="0.80" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-10 -94"
+      dur="2.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="209" cy="106" r="1.40" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="152 -106"
+      dur="9.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="211" cy="103" r="1.70" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="123 -103"
+      dur="7.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="115" r="0.70" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-194 90"
+      dur="2.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="215" cy="108" r="1.50" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="185 -49"
+      dur="6.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="107" r="0.70" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-52 -107"
+      dur="2.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="99" r="1.20" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-3 -99"
+      dur="4.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="109" r="1.00" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="135 -109"
+      dur="7.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="112" r="1.80" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="198 -28"
+      dur="4.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="188" cy="111" r="0.90" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-188 -30"
+      dur="5.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.60" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="68 112"
+      dur="7.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="188" cy="112" r="1.60" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-188 0"
+      dur="3.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="185" cy="118" r="0.70" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-185 75"
+      dur="5.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="127" r="1.00" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-19 98"
+      dur="8.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="98" r="1.90" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-42 -98"
+      dur="3.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="114" r="1.40" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-196 83"
+      dur="8.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="216" cy="122" r="1.50" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="171 103"
+      dur="9.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="191" cy="101" r="1.70" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-79 -101"
+      dur="9.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="209" cy="118" r="0.80" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="186 108"
+      dur="8.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="113" r="1.20" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-196 35"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="115" r="0.80" style="fill:#fdfdfd">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="110 110"
+      dur="4.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="124" r="1.20" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="21 101"
+      dur="4.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="214" cy="110" r="0.60" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="186 -29"
+      dur="9.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="214" cy="124" r="1.80" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="120 101"
+      dur="2.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="107" r="1.50" style="fill:#fdfdfd">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="7 -107"
+      dur="8.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="190" cy="109" r="1.40" style="fill:#fdfdfd">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-190 -73"
+      dur="5.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="120" r="1.70" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="32 105"
+      dur="9.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="101" r="1.00" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-45 -101"
+      dur="4.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="114" r="1.30" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-30 111"
+      dur="3.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="119" r="0.60" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-58 106"
+      dur="7.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="209" cy="116" r="1.20" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="191 69"
+      dur="9.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="218" cy="109" r="0.80" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="182 -32"
+      dur="7.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.40" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-22 -112"
+      dur="3.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="211" cy="108" r="1.90" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="189 -69"
+      dur="8.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="126" r="0.50" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-42 99"
+      dur="8.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="108" r="1.90" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="97 -108"
+      dur="4.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="107" r="1.80" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-17 -107"
+      dur="2.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="105" r="0.80" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="51 -105"
+      dur="9.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="210" cy="124" r="1.40" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="91 101"
+      dur="3.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="108" r="0.50" style="fill:#fdfdfd">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="65 -108"
+      dur="5.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="97" r="0.80" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-17 -97"
+      dur="3.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="190" cy="117" r="1.10" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-190 97"
+      dur="3.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.30" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-88 -113"
+      dur="9.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="192" cy="119" r="1.20" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-141 106"
+      dur="4.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="109" r="0.50" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="76 -109"
+      dur="2.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="214" cy="117" r="0.50" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="186 53"
+      dur="5.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="104" r="1.60" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="16 -104"
+      dur="4.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="116" r="1.30" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="71 109"
+      dur="8.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="218" cy="106" r="1.30" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="182 -63"
+      dur="5.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="208" cy="103" r="0.90" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="87 -103"
+      dur="3.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="120" r="1.30" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="60 105"
+      dur="3.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="108" r="1.00" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="133 -108"
+      dur="8.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="194" cy="114" r="1.80" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-194 63"
+      dur="4.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="104" r="1.30" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="50 -104"
+      dur="6.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="119" r="1.00" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-61 106"
+      dur="5.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="116" r="1.40" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-101 109"
+      dur="5.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="111" r="1.70" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-197 -88"
+      dur="7.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.50" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="200 -10"
+      dur="3.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="102" r="0.80" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-20 -102"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="98" r="1.40" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="7 -98"
+      dur="6.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="215" cy="107" r="1.70" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="185 -64"
+      dur="5.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="110" r="0.70" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="36 -110"
+      dur="3.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="216" cy="108" r="1.70" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="184 -53"
+      dur="7.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="213" cy="121" r="1.90" style="fill:#f9f9f9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="161 104"
+      dur="9.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="129" r="1.70" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-19 96"
+      dur="8.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="113" r="0.70" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-198 3"
+      dur="1.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="205" cy="121" r="1.80" style="fill:#fdfdfd">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="58 104"
+      dur="5.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="108" r="1.60" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-31 -108"
+      dur="3.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="112" r="0.70" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="198 -101"
+      dur="2.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="208" cy="122" r="1.30" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="87 103"
+      dur="9.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="113" r="1.90" style="fill:#f2f2f2">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-148 112"
+      dur="9.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="124" r="1.10" style="fill:#f4f4f4">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-14 101"
+      dur="6.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.50" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="200 -17"
+      dur="5.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="196" cy="108" r="1.00" style="fill:#f6f6f6">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-84 -108"
+      dur="6.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="193" cy="104" r="0.90" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-84 -104"
+      dur="2.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="113" r="0.80" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-197 57"
+      dur="5.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="198" cy="111" r="1.60" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-186 -111"
+      dur="8.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="199" cy="126" r="1.60" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-5 99"
+      dur="4.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="188" cy="117" r="1.40" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-188 61"
+      dur="4.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="214" cy="108" r="1.20" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="186 -57"
+      dur="6.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="114" r="1.90" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="107 111"
+      dur="8.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="201" cy="99" r="1.80" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="7 -99"
+      dur="2.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="113" r="1.90" style="fill:#f5f5f5">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-8 112"
+      dur="8.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.50" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-82 -112"
+      dur="2.90"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="206" cy="113" r="1.10" style="fill:#f7f7f7">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="194 20"
+      dur="2.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="113" r="1.90" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-197 14"
+      dur="7.20"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="195" cy="116" r="1.00" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-156 109"
+      dur="4.40"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="204" cy="110" r="0.70" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="196 -95"
+      dur="4.60"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="191" cy="108" r="1.80" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-191 -97"
+      dur="1.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="197" cy="128" r="1.10" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-17 97"
+      dur="8.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="185" cy="113" r="0.80" style="fill:#f1f1f1">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-185 3"
+      dur="9.50"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="208" cy="128" r="1.70" style="fill:#f3f3f3">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="52 97"
+      dur="6.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="117" r="0.80" style="fill:#fbfbfb">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="46 108"
+      dur="7.30"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="190" cy="116" r="1.90" style="fill:#fafafa">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-190 62"
+      dur="2.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="184" cy="120" r="1.30" style="fill:#fefefe">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-184 82"
+      dur="8.00"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="203" cy="115" r="1.70" style="fill:#f0f0f0">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="110 110"
+      dur="4.80"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="202" cy="104" r="1.30" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="24 -104"
+      dur="8.10"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="200" cy="112" r="1.20" style="fill:#f8f8f8">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="-48 -112"
+      dur="3.70"
+      repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="207" cy="110" r="1.40" style="fill:#fcfcfc">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      from="0 0"
+      to="193 -67"
+      dur="3.40"
+      repeatCount="indefinite" />
+  </circle>
+</svg>
