@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=daschr&show_icons=true&theme=default" width="395"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daschr&layout=compact&theme=default" width="330"/> 
+<img src="https://raw.githubusercontent.com/daschr/daschr/main/space.svg" width=600>
+
